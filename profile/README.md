@@ -1,6 +1,13 @@
 <div align="center">
+<img
+  src="./assets/cayadev-logo.svg"
+  alt="CaYaDev"
+  width="120"
+/>
+<p align="center">
+  <strong>CaYaDev</strong>
+</p>
 
-# CaYaDev
 
 ### Building developer tools, creative software and interactive technologies.
 
